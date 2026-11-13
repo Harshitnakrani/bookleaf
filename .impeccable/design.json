@@ -1,0 +1,23 @@
+{
+  "archetype": "Monochrome Minimalist Ledger",
+  "theme": "light",
+  "palette": {
+    "background": "#ffffff",
+    "surface": "#fafafa",
+    "border": "#e5e5e5",
+    "textPrimary": "#0a0a0a",
+    "textSecondary": "#404040",
+    "textMuted": "#737373",
+    "accent": "#000000"
+  },
+  "typography": {
+    "headings": "system-ui, -apple-system, sans-serif",
+    "body": "system-ui, -apple-system, sans-serif",
+    "numbers": "ui-monospace, SFMono-Regular, monospace"
+  },
+  "styling": {
+    "borders": "hairline 1px solid #e5e5e5",
+    "corners": "rounded-sm",
+    "shadows": "none"
+  }
+}
